@@ -44,7 +44,7 @@
 
 ### 프로그램 실행
 
-
+![Image](https://github.com/user-attachments/assets/ac7f85a6-dd08-4b53-b73c-fe412db1f1de)
 ---
 
 ## 🐛 에러 처리
